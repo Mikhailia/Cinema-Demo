@@ -1,2 +1,2 @@
 # Cinema-Demo
-Just a skill test project from noob.
+Just a skill test project by noob.
